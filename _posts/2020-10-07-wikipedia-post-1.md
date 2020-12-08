@@ -3,8 +3,8 @@ layout: post
 title: Wikipedia in classrooms? It's more likely than you think.
 subtitle: A short blog post by Zachary Ulrich
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/wikipedai.png
+share-img: /assets/img/classroom.jpg
 tags: [wikipedia, first]
 ---
 

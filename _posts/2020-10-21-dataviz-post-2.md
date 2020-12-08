@@ -3,8 +3,8 @@ layout: post
 title: Why visualize?
 subtitle: And what are the costs?
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/visualize.jpg
+share-img: /assets/img/data.jpg
 tags: [data, visualization, second]
 ---
 
